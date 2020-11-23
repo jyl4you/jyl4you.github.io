@@ -5,8 +5,8 @@ url: 'http://jyl4you.github.io'
 baseurl: ''
 profilepic: '/images/profile.jpg'
 bkimage: '/images/cover.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+# google_analytics: UA-XXXXXX-X
+font_awesome: '2e0f78ff02.js'
 
 author:
   name: 'Jongyeon Lee'
